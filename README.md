@@ -1,2 +1,2 @@
-# Endless_Runner_Game
-Created using JavaScript with contribution of Kirti Morya and Avishka Karn
+# Endless-Runner-Game
+Created using JavaScript and contributed by Jiya Garg, Kirti Morya

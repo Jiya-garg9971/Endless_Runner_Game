@@ -30,7 +30,8 @@ window.addEventListener('load', function(){
         this.enemyInterval=1000;
         this.debug=false;
         this.score=0;
-        this.winningScore=10;
+        this.winningScore=40;
+     //updated the winning score
 
         this.fontColor='black';
         this.time=0;
